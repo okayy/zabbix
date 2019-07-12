@@ -1,4 +1,4 @@
-# zabbix - Check containers from cryptography. 
+# zabbix - Check cryptography containers. 
 
 There are 2 scripts in the directory "/etc/zabbix/scripts/".
 One script detects the presence of cryptocontainers on the node. (Needed for auto-discovery)
